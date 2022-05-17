@@ -1,4 +1,4 @@
-# Login and signup app using SQLIte databse
+# Login and signup app using SQLite databse
 # Language
 Kotlin
 # IDE/ Tool
